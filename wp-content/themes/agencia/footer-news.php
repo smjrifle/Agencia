@@ -52,6 +52,7 @@
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="<?php echo get_template_directory_uri();?>/js/jquery.js"></script>
+		<script src="<?php echo get_template_directory_uri();?>/js/jquery.effects.slide.js"></script>
 		<script src="<?php echo get_template_directory_uri();?>/js/bootstrap.min.js"></script>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 		<script src="<?php echo get_template_directory_uri();?>/js/ie10-viewport-bug-workaround.js"></script>

@@ -32,6 +32,9 @@ $(document).ready(function() {
 	$('.share').click(function() {
 		$('.share-icons').slideDown();
 	})
+	$('.toggle-search').click(function() {
+		$('.search-form').toggle('slide');
+	});
 });
 
 $('.carousel1').carousel();

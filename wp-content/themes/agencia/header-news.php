@@ -35,6 +35,7 @@
 		<div class="bar">
 			<a id="logo" href="<?php site_url();?>"></a>
 			<a id="toggle" href="#"><div class="patty"></div></a>
+			<div class="toggle-search"></div>
 			<div class="search-form">
 				<?php get_search_form(); ?>
 			</div>
