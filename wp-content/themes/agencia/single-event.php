@@ -1,5 +1,7 @@
 <?php get_header();?>
-<?php //get_template_part('navbar-inner');?>
+<div class="banner" style="margin-top:-180px;">
+	<img src="<?php echo get_template_directory_uri();?>/images/events2.png">
+</div>
 
 <div id="main" class="main">
 	<div class="black-bg">
